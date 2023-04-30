@@ -1,5 +1,5 @@
 # TVOS-TVChannelandProgramCatalogue
-This App Show a Catalogue of Channels and Programs which are schedule for a day.
+This App Show a Catalogue which displays a list of channels and shows with their name and start time.
 
 Language Used is Swift
 
