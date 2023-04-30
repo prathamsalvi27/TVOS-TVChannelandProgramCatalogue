@@ -11,7 +11,8 @@ API calls are made from a Network Service Library which uses URLSession.
 
 API Response is Stored in Decodable Models.
 
-UIKit is Used for UI
+UI is made using UIKit.
+
 Multidimensional CollectionView is used to display Programs according to the start time.
 
 To make 'Multidimensional CollectionView' Custom UICollectionViewLayout was used.
