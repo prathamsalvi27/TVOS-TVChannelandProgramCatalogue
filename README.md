@@ -5,7 +5,6 @@ Language Used is Swift
 
 App is made for TVOS
 
-Contents:
 Architecture Used is VIPER. 
 
 API calls are made from a Network Service Library which uses URLSession.
