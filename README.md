@@ -6,15 +6,18 @@ Language Used is Swift
 App is made for TVOS
 
 Contents:
-Architecture Used is VIPER 
-API calls are made from a Network Service Library which uses URLSession
-API Response is Stored in Decodable Models
+Architecture Used is VIPER. 
+
+API calls are made from a Network Service Library which uses URLSession.
+
+API Response is Stored in Decodable Models.
 
 UIKit is Used for UI
 Multidimensional CollectionView is used to display Programs according to the start time.
-To make 'Multidimensional CollectionView' Custom UICollectionViewLayout was used 
 
-Following code is used to handle the Focus in Collection View
+To make 'Multidimensional CollectionView' Custom UICollectionViewLayout was used.
+
+Following code is used to handle the Focus in Collection View.
 ```
    func collectionView(_ collectionView: UICollectionView, canFocusItemAt indexPath: IndexPath) -> Bool {
         if collectionView == collectionViewProgram {
